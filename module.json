@@ -1,0 +1,16 @@
+{
+  "id": "dice-game-pig",
+  "title": "Pig Dice Game",
+  "description": "Play the dice game Pig in Foundry using chat commands.",
+  "version": "1.0.0",
+  "author": "YourName",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "12",
+  "scripts": ["scripts/pig.js"],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "socket": true,
+  "manifest": "https://yourhost.com/foundry-pig/module.json",
+  "download": "https://yourhost.com/foundry-pig/foundry-pig.zip"
+}
