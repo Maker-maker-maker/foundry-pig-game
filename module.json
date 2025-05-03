@@ -3,7 +3,7 @@
   "title": "Pig Dice Game",
   "description": "Play the dice game Pig in Foundry using chat commands.",
   "version": "1.0.0",
-  "author": "YourName",
+  "author": "Maker-maker",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "12",
   "scripts": ["scripts/pig.js"],
@@ -11,6 +11,6 @@
   "styles": [],
   "packs": [],
   "socket": true,
-  "manifest": "https://yourhost.com/foundry-pig/module.json",
-  "download": "https://yourhost.com/foundry-pig/foundry-pig.zip"
+  "manifest": "https://github.com/Maker-maker-maker/foundry-pig-game/releases/latest/download/module.json",
+  "download": "https://github.com/Maker-maker-maker/foundry-pig-game/archive/refs/heads/main.zip"
 }
