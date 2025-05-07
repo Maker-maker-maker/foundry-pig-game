@@ -2,7 +2,7 @@
   "id": "dice-game-pig",
   "title": "Pig Dice Game",
   "description": "Play the dice game Pig in Foundry using chat commands.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Maker-maker",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "12",
@@ -12,5 +12,5 @@
   "packs": [],
   "socket": true,
   "manifest": "https://github.com/Maker-maker-maker/foundry-pig-game/releases/latest/download/module.json",
-  "download": "https://github.com/Maker-maker-maker/foundry-pig-game/archive/refs/heads/main.zip"
+  "download": "https://github.com/Maker-maker-maker/foundry-pig-game/releases/latest/download/foundry-pig-game-1.1.zip"
 }
